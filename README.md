@@ -1,6 +1,7 @@
 # Luiz Gustavo. Front-end Developer !
 
-##
+
+
 ###### Hello, my name is Luiz, I'm a front-end development student.
 
 <div>
