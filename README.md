@@ -1,16 +1,24 @@
-### Hi there 👋
+# Luiz Gustavo. Front-end Developer !
 
-<!--
-**lgluiz1/lgluiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+###### Hello, my name is Luiz, I'm a front-end development student.
 
-Here are some ideas to get you started:
+<div>
+<img align="center" alt="Luiz-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="center" alt="Luiz-Linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img align="center" alt="Luiz-Linkedin" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</div> 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Atualmente estou cursando analise desenvolvimento de sistemas na Anhaguera </p></div>
+
+
+#####   🚀 Objetivo a se cumprir!                       
+######   * Melhora aprendizado
+######   * Desenvolver meu portifolio
+######   * Termina minha graduação 
+##
+ ##### 🏘️ Oque faço no meu dia a dia!
+######   Estudando Front End
+######   Desenvolvendo projetos
+######   Estudando para graduação
