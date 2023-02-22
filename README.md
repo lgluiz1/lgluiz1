@@ -23,3 +23,7 @@
 ######   Estudando Front End
 ######   Desenvolvendo projetos
 ######   Estudando para graduação
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgluiz1&show_icons=true&theme=dark)
