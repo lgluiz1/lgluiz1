@@ -14,6 +14,8 @@
 ##### Atualmente estou cursando analise desenvolvimento de sistemas na Anhaguera </p></div>
 
 
+
+
 #####   🚀 Objetivo a se cumprir!                       
 ######   * Melhora aprendizado
 ######   * Desenvolver meu portifolio
@@ -25,5 +27,5 @@
 ######   Estudando para graduação
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgluiz1&show_icons=true&theme=dark)
+
