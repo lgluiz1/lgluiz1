@@ -28,5 +28,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgluiz1&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgluiz1&compact=true)](https://github.com/lgluiz1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgluiz1&compact=true)](https://github.com/anuraghazra/github-readme-stats)
 
