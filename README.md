@@ -27,6 +27,8 @@
 ######   Estudando para graduação
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgluiz1&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgluiz1&compact=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/lgluiz1">
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lgluiz1&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgluiz1&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
