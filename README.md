@@ -4,14 +4,16 @@
 
 ###### Hello, my name is Luiz, I'm a front-end development student.
 
-<div>
+<div style="display: flex; align-itens:center">
   <a href="https://www.linkedin.com/in/luiz-gustavo-238b42265/" target="_blank">
 <img align="center" alt="Luiz-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/lgluiz1/" target="_blank">
-  <img align="center" alt="Luiz-Linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <img align="center" alt="Instagran" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.facebook.com/Lgluiz1" target="_blank">
-  <img align="center" alt="Luiz-Linkedin" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href = "mailto:legalhints@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="center" alt="Luiz-Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+                                                                                                                                              <a href="https://api.whatsapp.com/send?phone=5521981206823&text=Ol%C3%A1%20Vim%20fala%20com%20voc%C3%AA!%20Achei%20seu%20numero%20no%20GitHub" target="_blank">
+  <img align="center" alt="Luiz-Facebook" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
 </div> 
 <br>
 
