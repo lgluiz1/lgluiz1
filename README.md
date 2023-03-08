@@ -1,6 +1,7 @@
-# Luiz Gustavo. Front-end Developer !
-
-<img align="right" height="590em" src="img  />
+# Luiz Gustavo. Front-end Developer ! <img align="right" src="https://komarev.com/ghpvc/?username=lgluiz1&color=yellow" alt="Profile views" /> </p> 
+<div style="align="right">
+<img align="right" height="590em" src="https://github.com/lgluiz1/portifolio-01/blob/main/img/perfilgit.jpg" /><p align="left"> </p> <br>
+</div> 
 
 ###### Hello, my name is Luiz, I'm a front-end development student.
 
@@ -27,14 +28,35 @@
 ######   * Desenvolver meu portifolio
 ######   * Termina minha graduação 
 ##
- ##### 🏘️ Oque faço no meu dia a dia!
+ ##### 📖 Oque faço no meu dia a dia!
 ######   Estudando Front End
 ######   Desenvolvendo projetos
 ######   Estudando para graduação
 
+##
+
+### ⚙️ Tecnologias:
+![TyperScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+)                                                                                                                                    
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+##
+
 <div align="center">
   <a href="https://github.com/lgluiz1">
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lgluiz1&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
