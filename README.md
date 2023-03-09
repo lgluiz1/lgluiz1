@@ -1,6 +1,6 @@
 # Luiz Gustavo. Front-end Developer ! <img align="right" src="https://komarev.com/ghpvc/?username=lgluiz1&color=yellow" alt="Visualizações" /> </p> 
 <div style="align="right">
-<a href="https://lgluiz1.github.io/portifolio-01/" target="_blank"><img align="right" height="590em" src="https://github.com/lgluiz1/portifolio-01/blob/main/img/perfilgit.jpg" /><p align="left"></a>  </p> <br>
+<a href="https://lgluiz1.github.io/portifolio-01/" target="_blank"><img align="right" height="560em" src="https://github.com/lgluiz1/portifolio-01/blob/main/img/perfilgit.jpg" /><p align="left"></a>  </p> <br>
 </div> 
 
 ###### Hello, my name is Luiz, I'm a front-end development student.
@@ -23,12 +23,12 @@
 
 
 
-#####   🚀 Objetivo a se cumprir!                       
+###   🚀 Objetivo a se cumprir!                       
 ######   * Melhora aprendizado
 ######   * Desenvolver meu portifolio
 ######   * Termina minha graduação 
 ##
- ##### 📖 Oque faço no meu dia a dia!
+### 📖 Oque faço no meu dia a dia!
 ######   Estudando Front End
 ######   Desenvolvendo projetos
 ######   Estudando para graduação
@@ -42,8 +42,13 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 )                                                                                                                                    
-
-
+##
+### 🛠 Conhecimentos em:
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
+![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white
+)
+                                                                                                                                              
 ##
 
 <div align="center">
